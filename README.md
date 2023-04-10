@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanasgba&theme=onedark" alt="ayanasgba" /></p>
 
-<a href="https://github.com/Operans"> <p> Chingiz Karanbaev </p> </a>
+ <p> <a href="https://github.com/Operans">Chingiz Karanbaev </a> </p> 

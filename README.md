@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aiana!</h1>
-<h3 align="center">I am a second year student from Kyrgyzstan.</h3>
+<h3 align="center">I am a student from Kyrgyzstan.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanasgba&label=Profile%20views&color=0e75b6&style=flat" alt="ayanasgba" /> </p>
 
-- 🌱 I’m currently learning **Java - Spring Boot.**
+- 🌱 I’m currently learning **Python - Django.**
 
 - 📫 How to reach me **ayana12q34@gmail.com**
 
